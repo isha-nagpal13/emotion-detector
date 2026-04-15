@@ -168,22 +168,3 @@ git push -u origin main
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome! Feel free to open an issue for bugs or feature requests.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — feel free to use, modify, and distribute.
-
----
-
-## 🌟 Show Your Support
-
-If this project helped you, please give it a ⭐ on GitHub — it helps others find it!
-
----
-
-*Built with ❤️ as a beginner-friendly Computer Vision project.*
