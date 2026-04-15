@@ -5,7 +5,7 @@
 ![DeepFace](https://img.shields.io/badge/DeepFace-0.0.79%2B-orange)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
-A beginner-friendly **Computer Vision** project that detects human emotions from a static image using **OpenCV** for face detection and **DeepFace** for emotion recognition.
+A **Computer Vision** project that detects human emotions from a static image using **OpenCV** for face detection and **DeepFace** for emotion recognition.
 
 ---
 
