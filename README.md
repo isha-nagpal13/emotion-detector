@@ -111,6 +111,5 @@ python app.py
 | [DeepFace](https://github.com/serengil/deepface) | Deep learning-based emotion recognition |
 | [Haar Cascade](https://docs.opencv.org/4.x/db/d28/tutorial_cascade_classifier.html) | Fast, lightweight face detection model |
 
----
-<img width="1919" height="1031" alt="Screenshot 2026-04-15 194435" src="https://github.com/user-attachments/assets/72b9c435-b3d0-43f7-ba41-ddfc5aa9ac48" />
+<img width="1919" height="1031" alt="Screenshot 2026-04-15 194435" src="https://github.com/user-attachments/assets/35cfe9b9-5d20-46c9-9bd1-59536c3c9a92" />
 
