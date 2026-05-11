@@ -101,61 +101,6 @@ test.jpg
 
 ```bash
 python app.py
-```
-
----
-
-## 💻 Running in VS Code — Step by Step
-
-1. **Open VS Code** → `File` → `Open Folder` → select the `emotion-detector` folder
-2. **Open Terminal** in VS Code: `` Ctrl + ` `` (backtick)
-3. Create and activate a virtual environment (see Step 2 above)
-4. Install packages: `pip install -r requirements.txt`
-5. Add `test.jpg` to the folder
-6. Open `app.py` and press **F5** to run, or type `python app.py` in the terminal
-7. A window will appear showing your image with the detected emotion
-8. **Press any key** to close the window
-
----
-
-## 📦 Uploading to GitHub
-
-```bash
-# 1. Initialize git in the project folder
-git init
-
-# 2. Add all files
-git add .
-
-# 3. Commit your changes
-git commit -m "Initial commit: Emotion Detector project"
-
-# 4. Create a new repo on github.com, then connect it
-git remote add origin https://github.com/YOUR_USERNAME/emotion-detector.git
-
-# 5. Push to GitHub
-git branch -M main
-git push -u origin main
-```
-
-> 💡 **Tip:** Add a `test.jpg` sample image to your repo so others can test it immediately.
-
----
-
-## 📖 Beginner Explanation — What Does Each Part Do?
-
-| Concept | Plain English |
-|---------|--------------|
-| `cv2.imread()` | Opens the image file and loads it into memory as a grid of pixels |
-| `cv2.cvtColor()` | Converts the colorful image to black & white (grayscale) — works better for face detection |
-| `CascadeClassifier` | A pre-trained AI model that knows what a human face looks like — included free with OpenCV |
-| `detectMultiScale()` | Scans the image at many zoom levels to find faces of any size |
-| `DeepFace.analyze()` | Sends the face to a neural network trained on thousands of facial expressions to predict the emotion |
-| `cv2.rectangle()` | Draws a colored box around the face |
-| `cv2.putText()` | Writes text (the emotion name) onto the image |
-| `cv2.imshow()` | Opens a window and displays the final annotated image |
-
----
 
 ## 🛠️ Technologies Used
 
