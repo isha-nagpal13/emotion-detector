@@ -50,6 +50,7 @@ emotion-detector/
 # Screenhots
 <img width="590" height="516" alt="Screenshot 2026-06-09 002850" src="https://github.com/user-attachments/assets/37b241c7-8a40-418b-8e15-3041d68e688a" />
 
-#Author
+##Author
+
 Isha Nagpal
 
