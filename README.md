@@ -47,70 +47,9 @@ emotion-detector/
 └── README.md           # This file
 ```
 
----
+# Screenhots
+<img width="590" height="516" alt="Screenshot 2026-06-09 002850" src="https://github.com/user-attachments/assets/37b241c7-8a40-418b-8e15-3041d68e688a" />
 
-## ⚙️ Requirements
-
-- Python **3.8 or higher**
-- A front-facing photo named `test.jpg` in the project folder
-
----
-
-## 🚀 Getting Started
-
-### Step 1 — Clone the Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/emotion-detector.git
-cd emotion-detector
-```
-
-### Step 2 — Create a Virtual Environment (Recommended)
-
-```bash
-# Windows
-python -m venv venv
-venv\Scripts\activate
-
-# macOS / Linux
-python3 -m venv venv
-source venv/bin/activate
-```
-
-### Step 3 — Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-> ⚠️ **Note:** DeepFace will automatically download the FER model (~200MB) on the **first run**. This is normal — it only happens once.
-
-### Step 4 — Add Your Test Image
-
-Place a clear, front-facing photo in the project folder and name it:
-
-```
-test.jpg
-```
-
-**Tips for best results:**
-- Use a well-lit, front-facing photo
-- Avoid heavy filters or obstructions
-- A photo with one or more visible faces works best
-
-### Step 5 — Run the App
-
-```bash
-python app.py
-
-## 🛠️ Technologies Used
-
-| Tool | Purpose |
-|------|---------|
-| [Python](https://python.org) | Core programming language |
-| [OpenCV](https://opencv.org) | Image loading, face detection, drawing |
-| [DeepFace](https://github.com/serengil/deepface) | Deep learning-based emotion recognition |
-| [Haar Cascade](https://docs.opencv.org/4.x/db/d28/tutorial_cascade_classifier.html) | Fast, lightweight face detection model |
-
-<img width="1919" height="1031" alt="Screenshot 2026-04-15 194435" src="https://github.com/user-attachments/assets/35cfe9b9-5d20-46c9-9bd1-59536c3c9a92" />
+#Author
+Isha Nagpal
 
