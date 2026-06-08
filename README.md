@@ -1,4 +1,4 @@
-<img width="1919" height="1031" alt="Screenshot 2026-04-15 194435" src="https://github.com/user-attachments/assets/666b31d2-6f69-4afe-96b7-395140dfe6d4" />
+
 # 🎭 Emotion Detector using OpenCV & DeepFace
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
