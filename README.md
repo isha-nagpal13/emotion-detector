@@ -14,7 +14,7 @@ A **Computer Vision** project that detects human emotions from a static image us
 
 | Input Image | Output |
 |-------------|--------|
-| Person's face (test.jpg) | Face boxed in green + emotion label displayed |
+| Person's face (test.jpg) |  Face boxed in green + emotion label displayed |
 
 **Detectable Emotions:** `Happy` · `Sad` · `Angry` · `Fear` · `Surprise` · `Disgust` · `Neutral`
 
